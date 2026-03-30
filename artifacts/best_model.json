@@ -1,0 +1,9 @@
+{
+  "best_model": "LightGBM",
+  "metrics": {
+    "model": "LightGBM",
+    "MAE": 2.5547,
+    "RMSE": 3.2059,
+    "R2": 0.9611
+  }
+}

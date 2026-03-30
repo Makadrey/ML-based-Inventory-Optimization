@@ -1,0 +1,30 @@
+{
+  "rows": 4565000,
+  "columns": 8,
+  "column_names": [
+    "date",
+    "store_id",
+    "item_id",
+    "sales",
+    "price",
+    "promo",
+    "weekday",
+    "month"
+  ],
+  "unique_stores": 50,
+  "unique_items": 50,
+  "date_min": "2019-01-01",
+  "date_max": "2023-12-31",
+  "sales_mean": 29.264660240963856,
+  "sales_std": 15.009956693115667,
+  "missing": {
+    "date": 0,
+    "store_id": 0,
+    "item_id": 0,
+    "sales": 0,
+    "price": 0,
+    "promo": 0,
+    "weekday": 0,
+    "month": 0
+  }
+}
