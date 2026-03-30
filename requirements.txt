@@ -8,7 +8,7 @@ xgboost>=2.0.0
 lightgbm>=4.0.0
 
 # ── Deep Learning (LSTM) ──────────────────────────────────────────────────────
-tensorflow>=2.15.0
+tensorflow-cpu>=2.15.0,<2.16.0
 
 # ── Time-Series / Statistics ──────────────────────────────────────────────────
 statsmodels>=0.14.0
